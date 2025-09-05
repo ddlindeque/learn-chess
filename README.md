@@ -30,8 +30,16 @@ Before touching a single piece, it's crucial to evaluate the board. Consider thi
 
 # How to remember
 
+## Summary
+
 * **Is any of my stuff in danger?** (This covers hanging, pinned, and forked pieces.)
 * **Is any of their stuff in trouble?** (This covers their hanging, pinned, and forked pieces.)
 * **Can I make a winning move?** (This covers checks, mates, removing protection, and creating batteries.)
 * **How can I improve my position?** (This covers center control, outposts, and passed pawns.)
 
+## Acronym
+
+* **S**pot your opponent's threats (hanging pieces, pins, forks).
+* **T**hreats to your pieces (are any of yours hanging, pinned, or forked?).
+* **O**pportunities for you (can you create a check, fork, or capture?).
+* **P**ositional improvements (how can you make your pieces stronger by controlling the center or creating outposts?).
