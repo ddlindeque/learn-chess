@@ -8,11 +8,13 @@
 * Does my opponent
   * Have a hanging piece? Is it free, or is there a tactic?
   * Have a pinned piece? Does it give the illusion of protection?
-  * Can I 
+  * Have a move to grab an open file?
 * Can I
   * Create a check or mate?
   * Fork two pieces? Can my oponent break the fork by taking my forking piece, or attacking a higher value from one of those pieces?
   * Remove the protection of another piece and win material?
+  * Create an open/semi-open file?
+  * Create a battery?
   * Attack a piece?
   * Gain a better position?
     * Bishops on long diagonals
