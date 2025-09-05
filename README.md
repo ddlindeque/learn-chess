@@ -28,3 +28,10 @@ Before touching a single piece, it's crucial to evaluate the board. Consider thi
 * **Middlegame:** This is where the real fight begins. Create a plan to attack your opponent’s weaknesses. Use your rooks to occupy open files and create batteries to put pressure on the enemy king or other key pieces.  
 * **Endgame:** The key to the endgame is to push your pawns and promote them. Use your king actively to support your pawns and threaten your opponent’s.
 
+# How to remember
+
+* **Is any of my stuff in danger?** (This covers hanging, pinned, and forked pieces.)
+* **Is any of their stuff in trouble?** (This covers their hanging, pinned, and forked pieces.)
+* **Can I make a winning move?** (This covers checks, mates, removing protection, and creating batteries.)
+* **How can I improve my position?** (This covers center control, outposts, and passed pawns.)
+
